@@ -23,7 +23,7 @@ body{
     transition: 1s;
 }
 .card:hover{
-    transform: translateX(40%);
+    transform: translateX(50%);
 }
 .card .imgbox{
     position: relative;
